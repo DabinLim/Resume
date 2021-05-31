@@ -50,7 +50,7 @@
 <summary>생각낙서 (2021.04.25 ~ 2021.05.29)</summary>
 <div>       
 
-- WebSite [https://thinknote.us/](https://thinknote.online/)
+- WebSite [https://thinknote.us/](https://thinknote.us/)
 
 - Github Repository : [https://github.com/DabinLim/mind_bookshelf](https://github.com/DabinLim/mind_bookshelf)
 
