@@ -58,6 +58,8 @@
 
 - Instagram : [https://www.instagram.com/think_doodle/](https://www.instagram.com/think_doodle/)
 
+- Chrome Extension : [다운로드 링크](https://chrome.google.com/webstore/detail/%EC%83%9D%EA%B0%81%EB%82%99%EC%84%9C/bjjoklgeipleefnllgkcmacojnmbplga?hl=ko&)
+
 - **프론트엔드 개발 (2021.04.25 ~ 2021.05.29)**
 
     - 팀구성 : 디자인 1명, 프론트엔드 개발자3명, 백엔드 개발자 3명
@@ -79,6 +81,7 @@
         - 모바일 카드 디테일 : 웹에서는 카드 디테일이 모달로 띄워지기 때문에 모바일에서 뒤로가기를 하면 페이지 자체가 전 페이지로 이동해 불편하다는 다수 유저들의 피드백을 반영해 모바일에서의 페이지를 새로 만들었습니다.<br>
         - 좋아요 누른 사람 리스트 확인 및 댓글 좋아요 기능
         - 더보기 페이지
+        - ChromeExtension 제작
 
 </div>
 </details>
