@@ -34,11 +34,11 @@
 
 3️⃣  경험이 있으며 신입 개발자로 무리없이 업무를 수행 할 수 있음.
 
-**Language :** JavaScript(React.js)(3️⃣), Python(1️⃣)
+**Language :** JavaScript(React.js)(3️⃣ ), Python(1️⃣ )
 
-**Web :** HTML/CSS(3️⃣)
+**Web :** HTML/CSS(3️⃣ )
 
-**Etc. :** Node.js(express)(1️⃣), MongoDB(1️⃣), Git(2️⃣), 
+**Etc. :** Node.js(express)(1️⃣ ), MongoDB(1️⃣ ), Git(2️⃣ ), 
 
 
 <br><br>
