@@ -2,6 +2,7 @@
 
 ## 임다빈 신입 프론트엔드 개발자
 ### Dabin Lim Junior FrontEnd Developer
+> 성장에 목마른 프론트엔드 개발자 임다빈 입니다. 새로운 도전을 겁내지 않고 스펀지처럼 받아들이는 개발자가 되겠습니다.
 
 <br><br>
 
@@ -23,7 +24,9 @@
 
 <br><br>
 
-## 자기 소개 제목 
+## Introdution
+
+
 
 
 
@@ -45,14 +48,6 @@
 **Web :** HTML/CSS(3️⃣)
 
 **Etc. :** Node.js(express)(1️⃣), MongoDB(1️⃣), Git(2️⃣), 
-
-
-<br><br>
-
-
-## Class
-
-- 항해 99 부트캠프 (2021.03~ 2021.06)
 
 
 <br><br>
