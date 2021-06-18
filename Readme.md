@@ -1,17 +1,13 @@
-<div style='display:flex'>
-<img src='https://user-images.githubusercontent.com/77574867/120148857-d2ba4a00-c223-11eb-8119-d9e65895bcf0.jpeg' width='200px' height='200px'/>
-<div style='margin-left:20px'>
 
-<br>
+<img src='https://user-images.githubusercontent.com/77574867/120148857-d2ba4a00-c223-11eb-8119-d9e65895bcf0.jpeg' width='200px' height='200px'/>
+
 
 ## 임다빈 신입 프론트엔드 개발자
 ### Dabin Lim Junior FrontEnd Developer
 
-<br>
 
 > 성장에 목마른 프론트엔드 개발자 임다빈 입니다. <br>새로운 도전을 겁내지 않고 스펀지처럼 받아들이는 개발자가 되겠습니다.
-</div>
-</div>
+
 <br><br>
 
 ## Contact
@@ -52,7 +48,12 @@
 ## Experience
 <br>
 <h3>생각낙서 (2021.04.25 ~ 2021.05.29)</h3>
-<div>       
+
+<br>
+
+<img src='https://user-images.githubusercontent.com/67696504/119916609-d342ae80-bf9f-11eb-8bd0-8a1e555a497f.png' width='400px' height='300px'>
+
+<br>
 
 - WebSite [https://thinknote.us/](https://thinknote.us/)
 
@@ -115,15 +116,14 @@
     
         
 
-</div>
-<br>
-<div style='display:flex'>
-<img src='https://user-images.githubusercontent.com/77574867/115729697-98f25a00-a3c0-11eb-82e0-72744d288684.png' width='400px' height='300px'>
-<div>
 
 <br>
 
   <h3 style='margin-left:20px'>호그와트 (2021.04.19 ~ 2021.04.22)</h3>  
+<br>
+
+<img src='https://user-images.githubusercontent.com/77574867/115729697-98f25a00-a3c0-11eb-82e0-72744d288684.png' width='400px' height='300px'>
+
 
 <br>
  
@@ -158,8 +158,13 @@
 
 <br>
 <h3>항해하우스 - Chat App (2021.04.12 ~ 2021.04.22)</h3>
-<div>       
- 
+
+<br>
+
+<img src='https://user-images.githubusercontent.com/77574867/115686865-98dc6500-a394-11eb-9606-1289e1566e2e.png' width='400px' height='300px'>
+
+<br>
+
 - Github Repository : [https://github.com/DabinLim/Hanghaehouse_front](https://github.com/DabinLim/Hanghaehouse_front)
 
 - YouTube : [https://www.youtube.com/watch?v=zD8-Xns-jrs](https://www.youtube.com/watch?v=zD8-Xns-jrs)
@@ -189,11 +194,16 @@
     - 개발난항 및 해결방법
         - 웹소켓 구현시 레퍼런스가 많이 부족했던 탓에 여러번 코드를 지우고 쓰고를 반복하다 vue.js로 쓰여진 레퍼런스를 참조하였습니다.<br>어떻게든 해결하려고 노력하면 방법을 찾아낼 수 있다는 것을 느끼게 된 계기였습니다.
 
-</div>
 
 <br>
 <h3>클론코딩 (Instagram) (2021.04.03 ~ 2021.04.09)</h3>
-<div>       
+
+<br>
+
+<img src='https://user-images.githubusercontent.com/77574867/114160808-477ab180-9962-11eb-9788-7bd48b2f33fa.png' width='400px' height='300px'>
+
+
+<br>
  
 - Github Repository : [https://github.com/DabinLim/Clone_coding](https://github.com/DabinLim/Clone_coding)
 
@@ -230,11 +240,16 @@
         - 상태관리에 대해 미숙한 부분이 많아 좋아요 또는 친구삭제시 db에는 반영이 되나 화면에는 반영이 되지 않는 경우가 많았습니다.<br>
         하나하나 콘솔이 찍어가며 어느 부분을 수정해야 할지 찾아가며 코딩하여 해결하였습니다.<br>
 
-</div>
 
 <br>
 <h3>항해일지 (2021.03.01 ~ 2021.03.04)</h3>
-<div>       
+
+<br>
+
+<img src='https://user-images.githubusercontent.com/57718605/109966987-3a9bea00-7d34-11eb-837e-d65b88f0744b.png' width='400px' height='300px'>
+
+<br>
+     
  
 - Github Repository : [https://github.com/DabinLim/logBook](https://github.com/DabinLim/logBook)
 
@@ -265,7 +280,6 @@
         팀원들과 소통하고 하나하나 문제를 해결해나가며 프로젝트를 마칠 수 있었다.<br>
         프로젝트 마무리 이후 나도 할 수 있겠다 라는 자신감을 얻었다.
 
-</div>
 
 
 
