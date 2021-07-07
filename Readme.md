@@ -36,11 +36,11 @@
     - HTML/CSS
     - Git
     - Python
-    - JQuery
 2. 사용 경험이 있으나 지식이 부족하여 추가적인 학습이 필요합니다.
     - Node.js(express)
     - MongoDB
     - TypeScript
+    - JQuery
 
 
 <br><br>
