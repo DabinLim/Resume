@@ -21,7 +21,7 @@
 
 ## Channel
 
-🖥️ Blog [https://github.com/DabinLim/Today-I-Learned](https://github.com/DabinLim/Today-I-Learned)
+🖥️ Blog [https://github.com/DabinLim/developmentLog](https://github.com/DabinLim/developmentLog)
 
 👨‍💻 Github [https://github.com/DabinLim](https://github.com/DabinLim)
 
