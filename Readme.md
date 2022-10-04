@@ -66,7 +66,6 @@
       - 커머스 (오일 상품 구매) 기능
       - 오픈 이후 디자인 개편
       - codepush, crashlytics, mixpanel, ga 등 적용
-      - ...etc
 
 
 <br>
